@@ -1,4 +1,5 @@
-fever
-=====
+Fever
+=============
+* Name: Fever scripts and enhancements
 
-Scripts and changes for my personal Fever install
+## Description
